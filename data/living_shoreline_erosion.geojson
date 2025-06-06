@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gravel Beach (section 1)",
+        "stroke": "#008000",
+        "notes": "Gravel beach with diverse salt marsh plants backed by vegetated slope. <a href='https://imgur.com/a/Iygw22d'>See photos</a>.",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.307144, 37.870684],
+          [-122.3073181956994, 37.87077344531785],
+          [-122.3075341809342, 37.87086617233271],
+          [-122.307712, 37.871051]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass Slope (section 2)",
+        "notes": "This section of saltgrass is advancing north from the gravel beach. There is little scarp in this section until the north edge, but the saltgrass does not extend far into the uplands.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.307712, 37.871051],
+          [-122.307845, 37.87115]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Small Scarp (section 3)",
+        "notes": "This is a short section of scarp. The gap in saltgrass at the base of the scarp is about 3 feet. Saltgrass has been spreading north from the gravel beach, and south from a spontaneously formed patch of saltgrass. This section is sometimes used for shoreline access which may inhibit saltgrass colonization. <a href='https://imgur.com/a/QUZDWXs'>See photos</a>.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.307845, 37.87115],
+          [-122.307853, 37.8711556]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 4)",
+        "notes": "This section began as a small colony of saltgrass which is advancing to the north and south. There is still significant scarp in some of this section (<a href='https://imgur.com/a/fNVYkAf'>photos</a>).",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.307853, 37.8711556],
+          [-122.30791, 37.87119]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 5)",
+        "notes": "Scarp (33 foot gap in saltgrass at base) with saltgrass advancing from north and south (<a href='https://imgur.com/a/zxZJH0B'>photos</a>).",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30791, 37.87119],
+          [-122.30797180822555, 37.87126617056605]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 6)",
+        "notes": "Saltgrass slope with some scarp, spreading to north and south (<a href='https://imgur.com/a/Jp0qVDI'>photos</a>).",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30797180822555, 37.87126617056605],
+          [-122.30801, 37.87135]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 7)",
+        "notes": "Scarp (23 foot gap in saltgrass) with small strands of saltgrass at the base which are not yet well-established (<a href='https://imgur.com/a/Jb2Rj2M'>photos</a>).",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30801, 37.87135],
+          [-122.30804409711936, 37.87140701160922]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 8)",
+        "notes": "<a href='https://imgur.com/a/rOEGjGs'>See photos</a>.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30804409711936, 37.87140701160922],
+          [-122.308074, 37.871436]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vandalized Scarp (section 9)",
+        "notes": "This section and nearby sections were heavily impacted by digging (apparently looking for bottles) in December 2022. The digging loosened soil at the base of the scarp, causing deep erosion and undercutting which caused the top of the scarp to collapse. Adjacent saltgrass slope was damaged both directly by digging and indirectly by deepened erosion of adjacent scarp.\n\nAlong this section, there is one large cluster of saltgrass on the shoreline below the base of the scarp, and scattered pieces of saltgrass that is not yet well-established (<a href='https://imgur.com/a/1atvwAA'>photos</a>). These will eventually spread and stabilize the slope if further vandalism does not occur. 42 foot gap in saltgrass at base.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.308074, 37.871436],
+          [-122.30807905457652, 37.871551058228945]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 10)",
+        "notes": "Short section of saltgrass with some scarp remaining at top. <a href='https://imgur.com/a/section-10-7A6tC7U'>See photos</a>.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30807905457652, 37.871551058228945],
+          [-122.30809, 37.87161]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Small Scarp (section 11)",
+        "notes": "Erosion due to vandalism and foot traffic. There are a few small patches of saltgrass near the base of the scarp in this section as well as patches inland above the scarp. See <a href='https://imgur.com/a/GVxsQU4'>photos</a>. 5 foot gap in saltgrass at base.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30809, 37.87161],
+          [-122.30809927065627, 37.87162158832756]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 12)",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30809927065627, 37.87162158832756],
+          [-122.30813, 37.87166]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 13)",
+        "notes": "There is saltgrass in the upland above the scarp, and scattered saltgrass at the base of scarp, but the base is not yet stable. <a href='https://imgur.com/a/LIweLZn'>See photos</a>. 26 foot gap in saltgrass at base; scarp 4.5 feet high.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30813, 37.87166],
+          [-122.30815449834503, 37.871728595435215]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass Slope (section 14)",
+        "notes": "This section has little scarp. <a href='https://imgur.com/a/Ihrem8Y'>See photos</a>.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30815449834503, 37.871728595435215],
+          [-122.3083, 37.87237]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Living Shoreline (section 15)",
+        "stroke": "#008000",
+        "notes": "This section has no scarp. The saltgrass slope extends above the high tide line and has advanced far into the nearly flat upland area (<a href='https://imgur.com/a/section-15-JdusaBK'>photos</a>).",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.3083, 37.87237],
+          [-122.30838, 37.87264]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass Slope (section 16)",
+        "notes": "Advancing north from adjacent well-established section. The southern part of this section has almost no scarp. The northern part has some sections with saltgrass at the base but still substantial scarp above it. <a href='https://imgur.com/a/section-16-SqhTWRc'>See photos</a>.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30838, 37.87264],
+          [-122.30837, 37.8728]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 17)",
+        "notes": "The southern end of this section has established patches of saltgrass below the base of the scarp. There are 2 expanding patches of native cordgrass at the lower edge of the intertidal zone. <a href='https://imgur.com/a/section-17-fQOZUKj'>See photos</a>. 30 foot gap in saltgrass at base; scarp height is 4 feet.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30837, 37.8728],
+          [-122.30839320630541, 37.87288016757169]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass Slope (section 18)",
+        "notes": "Much of this section has little scarp and slopes into the <i>Elymus triticoides</i> in the uplands (<a href='https://imgur.com/a/c1BMa9l'>photos</a>). There is some ongoing erosion of the partial scarp due to <a href='https://imgur.com/OxPpCqk'>beach access</a>.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30839320630541, 37.87288016757169],
+          [-122.30848, 37.87318]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 19)",
+        "notes": "A short section of scarp being colonized by saltgrass from north and south. 12 foot gap in saltgrass at base; scarp height is 4 feet. <a href='https://imgur.com/a/PTOkbYu'>See photos</a>.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30848, 37.87318],
+          [-122.30848649821884, 37.87321249112433]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 20)",
+        "notes": "A short section of saltgrass slope, extending south to a short scarp section and north to the longest scarp section. <a href='https://imgur.com/a/wNgWgjo'>See photos</a>.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30848649821884, 37.87321249112433],
+          [-122.3085, 37.87328]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Scarp (section 21)",
+        "notes": "This is the longest scarp section. There is little or no saltgrass at the base. Saltgrass is advancing from the north and south, but this section will likely erode significantly inland before it is naturally colonized. <a href='https://imgur.com/a/sX5HpKs'>See photos</a>. Approximately 30 meter gap in saltgrass at base; scarp height is 5 feet.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.3085, 37.87328],
+          [-122.30859933390245, 37.873539796656004]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 22)",
+        "notes": "This section began as a very small colony of saltgrass in approximately 2018. It has gradually expanded in all directions (<a href='https://imgur.com/a/dCaiCgg'>photos</a>) and ext2ends approximately 27 feet along the length of the shoreline. The scarp behind it is gradually eroding into the slope and saltgrass will eventually extend into the upland area.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30859933390245, 37.873539796656004],
+          [-122.30863, 37.87362]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 23)",
+        "notes": "Gap in saltgrass at base 39 feet; scarp height 5 feet. <a href='https://imgur.com/a/Zw1x6Ht'>See photos</a>.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30863, 37.87362],
+          [-122.3086653798635, 37.87372319162693]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 24)",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.3086653798635, 37.87372319162693],
+          [-122.30875, 37.87397]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 25)",
+        "notes": "<a href='https://imgur.com/a/ci9d1Qj'>Small amount of saltgrass</a> at base of scarp. Gap in saltgrass at base 40 feet; scarp height 4 feet.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30875, 37.87397],
+          [-122.30879725625738, 37.87407310476566]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass / Scarp (section 26)",
+        "notes": "There is little scarp in this section. The upland area has not been planted, and is primarily invasives including fennel and Harding grass. See <a href='https://imgur.com/a/Y7wPsYY'>photos</a>.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30879725625738, 37.87407310476566],
+          [-122.30886, 37.87421]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scarp (section 27)",
+        "notes": "Scarp height has decreased here as the shoreline transitions to the road reach/northern panhandle section. This section of scarp is shrinking as saltgrass advances from the north and south. See <a href='https://imgur.com/a/r0f5kA0'>photos</a>. Gap in saltgrass at base 12 feet; scarp height 3 feet.",
+        "stroke": "#ff0000",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.30886, 37.87421],
+          [-122.308883682108, 37.87423706529037]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saltgrass Slope (section 28)",
+        "notes": "This is the northernmost section of the Living Shoreline / Scarp section. North of here, the shoreline is mostly green riprap with a fairly gentle slope and very low scarps.",
+        "stroke": "#ffa500",
+        "stroke-width": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [-122.308883682108, 37.87423706529037],
+          [-122.30893, 37.87429]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "14a",
+        "notes": "6 foot gap at base of saltgrass. The scarp is almost entirely covered by Ambrosia chamissonis. <a href='https://imgur.com/vQQECRh'>See photos</a>.",
+        "marker_decoration": "",
+        "marker_type": "pin",
+        "marker_color": "#5726C2"
+      },
+      "geometry": {
+        "coordinates": [-122.30818, 37.8718],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "14b",
+        "notes": "5 foot gap at base of saltgrass. There is saltgrass along the top of the scarp. Scarp height is 4 feet. <a href='https://imgur.com/cyuch7L'>See photos</a>.",
+        "marker_decoration": "",
+        "marker_type": "pin",
+        "marker_color": "#5726C2"
+      },
+      "geometry": {
+        "coordinates": [-122.30823, 37.872],
+        "type": "Point"
+      }
+    }
+  ]
+}
