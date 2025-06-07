@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: "*"
       - run: npm update
-      - run: npx @11ty/eleventy --output=public
+      - run: npx @11ty/eleventy
       - uses: actions/upload-pages-artifact@v3
         with:
           path: "public/"

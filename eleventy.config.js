@@ -7,6 +7,7 @@ export const config = {
 export default async function (eleventyConfig) {
   eleventyConfig.addPlugin(HtmlBasePlugin);
   eleventyConfig.setInputDirectory("./content/**");
+  eleventyConfig.setOutputDirectory("./public");
   eleventyConfig.setLayoutsDirectory("./layouts");
   eleventyConfig.addPassthroughCopy("./content/css");
 }
