@@ -9,7 +9,7 @@ title: California Cordgrass
 
 Cordgrass around the bay is monitored by the [Invasive Spartina Project](https://spartina.org/) to ensure that invasive hybrid cordgrass does not spread and alter shoreline ecosystems.
 
-Cordgrass grows at the lower end of the intertidal zone, in a very narrow elevation range. A small patch of cordgrass has been present in a small depression in the gravel beach area since at least 2011. This patch has not changed significantly in size.
+Cordgrass grows at the lower end of the intertidal zone, in a very narrow elevation range. A small patch of cordgrass is present around a small lagoon in the gravel beach area. This patch seems to have become established sometime between 2004 and 2011, and does not seem to have changed significantly in size since 2011.
 
 In late 2018, a small patch of cordgrass appeared along the living shoreline section. It was approximately 1 foot square when first documented. As of June 2025, this patch has expanded to approximately 40 feet along the length of the shoreline, and approximately 15 feet wide at its widest point.
 
