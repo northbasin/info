@@ -5,7 +5,7 @@ title: Native Shoreline Plants
 
 # Native Shoreline Plants
 
-The native shoreline plants appear to have all colonized the area naturally. They are less impacted by invasives since most invasives are not able to survive the saline bay environment.
+The native shoreline plants appear to have all colonized the area naturally. They are less impacted by invasives since most invasives are not able to survive the saline bay environment. Below is a list of native shoreline plants present as of June 2025 in (very roughly) decreasing order of abundance.
 
 <a id="saltgrass"></a>
 

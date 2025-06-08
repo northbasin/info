@@ -5,7 +5,7 @@ title: Non-native Plants
 
 # Invasive Plants
 
-Since the project site is landfill, there is little naturally occurring native seedbank. Most of the plants present are non-native plants introduced in the fill or spread by wind, vehicles, or animals. Some of the more common and aggressive invasives are listed here.
+Since the project site is landfill, there is little naturally occurring native seedbank. Most of the plants present are non-native plants introduced in the fill or spread by wind, vehicles, or animals. The mix of species and relative abundance changes over time. Some of the more common and aggressive invasives present as of June 2025 are listed here, in (very roughly) decreasing order of abundance.
 
 ## _Phalaris aquatica_ (Harding grass)
 
@@ -21,9 +21,7 @@ Common perennial throughout. Large plants have deep taproots which are difficult
 
 ## _Raphanus_ sp. (radish)
 
-Common throughout. Generally an annual, so it can be eliminated by pulling or cutting before it produces seed. Large plants can be difficult to pull, and plants that are cut will often resprout and flower multiple times, so repeated maintenance through the year is necessary. Seeds are viable for several years, so areas with a large infestation require intensive treatment for several years.
-
-Prior to 2011, the inland area adjacent to the shoreline was a near monoculture of radish. This has been replaced by native plants (most initially planted, many now spreading naturally), though sporadic radish appears regularly.
+Common throughout. In 2011, the inland area adjacent to the shoreline was dominated by radish. This has been replaced by native plants (most initially planted, many now spreading naturally), though sporadic radish appears regularly.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/raphanus-sativus-profile/)
 
@@ -31,31 +29,27 @@ Prior to 2011, the inland area adjacent to the shoreline was a near monoculture 
 
 Poison hemlock is present in some areas of the inland section. It has mostly been eradicated from the western edge of the inland section next to the shoreline.
 
-Poison hemlock is a biennial. It can be be removed by pulling out plants by the roots or cutting them before they create seeds.
-
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/conium-maculatum-profile/)
 
 ## _Salsola soda_ (Russian thistle)
 
-Salsola is present in sporadically along all the shoreline segments of the project area, with occasional larger populations appearing. It is an annual and easy to remove, but there are many large populations around the bay which repopulate the project area, so it must be monitored regularly to prevent larger infestations in the project area.
+Salsola is present in sporadically along all the shoreline segments of the project area, with occasional larger populations appearing. There are many large populations around the bay which repopulate the project area, so it must be monitored regularly to prevent larger infestations in the project area.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/salsola-soda-profile/)
 
 ## _Oxalis pes-caprae_ (Bermuda buttercup, sour grass)
 
-Oxalis is present in scattered locations. It is difficult to remove because it usually has many bulbs. Very small populations can be eliminated by frequent, repeated pulling or cutting of above-ground portions to starve the roots, otherwise manual control is difficult. A dense cover of perennial plants is often effective at out-competing Oxalis and starving it of resources.
+Oxalis is present in scattered locations. It is difficult to eradicate because it usually has many small bulbs from which plants will resprout repeatedly.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/oxalis-pes-caprae-profile/)
 
 ## _Convolvulus arvensis_ (bindweed)
 
-Bindweed is present in scattered locations. It is difficult to remove because it has very deep roots. Very small populations can be eliminated by frequent, repeated pulling or cutting of above-ground portions to starve the roots, otherwise manual control is difficult.
+Bindweed is present in scattered locations. It is difficult to remove because it has very deep roots from which plants will resprout repeatedly.
 
 ## _Carpobrotus edulis_ (freeway iceplant)
 
-Large patches remain in the northern part of the upland area and along the panhandle shoreline. Much reduced in recent years along the shoreline of Virginia Street Extension.
-
-Iceplant spreads quickly to cover large areas and smother native plants. It is easy to remove by hand, but requires follow-up to ensure that it does not resprout.
+Significant scattered patches remain in the northern part of the upland area and along the panhandle shoreline. A small amount remains along the shoreline of Virginia Street Extension.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/carpobrotus-edulis-profile/)
 
@@ -67,21 +61,27 @@ One persistent patch in the northwest part of the upland area and occasional in 
 
 ## _Limonium ramosissimum_ (Algerian sea lavender)
 
-Algerian sea lavender has been present in the project area since at least 2021, primarily in a hot spot in the northern panhandle. It has also appeared occasionally in other locations along the northern panhandle and the Virginia Street Extension.
+Algerian sea lavender has been present in small amounts in the project area since at least 2021, primarily in a single location in the northern panhandle. It has also appeared occasionally in other locations along the northern panhandle and the Virginia Street Extension.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/limonium-ramosissimum-profile/)
 
 ## _Lepidium latifolium_ (pepperweed)
 
-Plants are perennials with deep roots and difficult to eliminate; they will often resprout unless the roots can be entirely removed or cut frequently enough to exhaust the roots. There is a small amount of pepperweed in the project area, primarily in the steep riprap on the east side of the Virginia Street Exension. This area is difficult to access and if it spreads beyond this area it could become very invasive. It has also been present in the northern portion of the gravel beach, but has mostly been eliminated from this area.
+Plants are perennials with deep roots and difficult to eliminate. There is a small amount of pepperweed in the project area, primarily in the steep riprap on the east side of the Virginia Street Exension. This area is difficult to access and if it spreads beyond this area it could become very invasive. It has also been present in the northern portion of the gravel beach, but has mostly been eliminated from this area.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/lepidium-latifolium-profile/)
 
 ## _Acacia_ sp.
 
-There are several species of Acacia, primarily _Acacia melanoxylon_ in the southwest portion of the upland area which are encroaching on nearby native plants. Small seedlings can be pulled by hand, but large trees must be cut, and will usually resprout aggressively from roots. Frequent follow-up to remove root resprouts is necessary until the root system dies.
+There are several species of Acacia, primarily _Acacia melanoxylon_ in the southwest portion of the upland area which are encroaching on nearby native plants.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/acacia-melanoxylon-profile/)
+
+## _Dittrichia graveolens_ (stinkwort)
+
+Plants regularly appear in the northern part of the panhandle, and occasionally in the upland area.
+
+[Cal-IPC](https://www.cal-ipc.org/plants/profile/dittrichia-graveolens-profile/)
 
 ## _Genista monspessulana_ (French broom)
 
@@ -91,6 +91,12 @@ There was a large infestation of French broom in the upland area in the past. Th
 
 ## _Cortaderia_ sp. (pampas grass)
 
-Pampas grass in the project area has mostly been removed by volunteers but occasional small plants still appear. Large plants are difficult to remove, so should be monitored regularly and small plants dug out.
+Pampas grass in the project area has mostly been removed by volunteers but occasional small plants still appear.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/cortaderia-selloana-profile/)
+
+## _Centaurea solstitialis_ (yellow star-thistle)
+
+Yellow star-thistle was present in the project area in the past, but appears to have been eliminated by volunteers.
+
+[Cal-IPC](https://www.cal-ipc.org/plants/profile/centaurea-solstitialis-profile/)
