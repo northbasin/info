@@ -5,7 +5,7 @@ title: Gravel Beach Section
 
 # Gravel Beach
 
-The Gravel Beach section is the section just north of the Virginia Street Extension, where the shoreline has a small salt marsh before the transition to uplands.
+The Gravel Beach section is the section just north of the Virginia Street Extension, where the shoreline has a small salt marsh before the transition to uplands. This area has slowly evolved over time; [see photos](https://imgur.com/a/gravel-beach-Iygw22d) of the changes between 2003 and 2025.
 
 ## Plants
 
