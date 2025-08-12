@@ -55,9 +55,15 @@ Significant scattered patches remain in the northern part of the upland area and
 
 ## _Euphorbia oblongata_ (eggleaf spurge)
 
-One persistent patch in the northwest part of the upland area and occasional in other parts of the upland.
+Occasional along the Virginia Street Extension and in the upland area.
 
 [Cal-IPC](https://www.cal-ipc.org/plants/profile/euphorbia-oblongata-profile/)
+
+## _Euphorbia terracina_ (Geraldton carnation weed)
+
+One persistent patch in the northwest part of the upland area.
+
+[Cal-IPC](https://www.cal-ipc.org/plants/profile/euphorbia-terracina-profile/)
 
 ## _Limonium ramosissimum_ (Algerian sea lavender)
 
